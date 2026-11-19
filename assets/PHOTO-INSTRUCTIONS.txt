@@ -1,0 +1,8 @@
+YOUR PROFILE PHOTO
+
+Place your own portrait photo in this folder and name it:
+  dejene-photo.jpg
+
+The website already references assets/dejene-photo.jpg. A clear, well-lit portrait works best. For best results use a vertical photo (roughly 4:5), with your face centered. JPG or JPEG is recommended.
+
+If the photo file is absent, the page falls back to the initials DB.
